@@ -90,14 +90,14 @@ This is a MERN stack-based Customer Management Application that allows users to:
 - `GET /transactions/:customerId`: Retrieve all transactions for a specific customer.
 
 ## Screenshots
-### 1. Customer List Page
-![Customer List](./screenshots/customer-list.png)
+### 1. Transaction History Page
+![Customer List](./Manager/screenshot/Screenshot (116).png)
 
 ### 2. Add Customer Form
-![Add Customer](./screenshots/add-customer.png)
+![Add Customer](./Manager/screenshot/Screenshot (117).png)
 
-### 3. Transaction History Page
-![Transaction History](./screenshots/transaction-history.png)
+### 3. Register Form
+![Add Customer](./Manager/screenshot/Screenshot (118).png)
 
 ## License
 This project is licensed under the MIT License.
