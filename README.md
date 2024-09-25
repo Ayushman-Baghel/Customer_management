@@ -91,13 +91,13 @@ This is a MERN stack-based Customer Management Application that allows users to:
 
 ## Screenshots
 ### 1. Transaction History Page
-![Customer List](./Manager/screenshot/Screenshot (116).png)
+![Customer List](./Manager/screenshot/Screenshot%20(116).png)
 
 ### 2. Add Customer Form
-![Add Customer](./Manager/screenshot/Screenshot (117).png)
+![Add Customer](./Manager/screenshot/Screenshot%20(117).png)
 
 ### 3. Register Form
-![Add Customer](./Manager/screenshot/Screenshot (118).png)
+![Add Customer](./Manager/screenshot/Screenshot%20(118).png)
 
 ## License
 This project is licensed under the MIT License.
