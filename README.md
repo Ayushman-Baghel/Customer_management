@@ -1,7 +1,4 @@
-# Customer_management
-# Creating a README file for the customer manager app
 
-readme_content = """
 # Customer Manager App
 
 ## Overview
